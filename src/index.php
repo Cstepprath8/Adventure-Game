@@ -75,20 +75,20 @@ if ($userChoice == 1) {
 if ($userChoice == 2) {
     printf("You follow the well-trodden path and come across a river. Do you attempt to cross the river or look for a different route? \n\n");
   printf("Option 1. You attempt to cross the river?\n");
-  printf("Option 2. Loof for a different route?\n");
+  printf("Option 2. Look for a different route?\n");
   // Collect answer
   $userChoice = readline("");
 
   // Option 1 continue Game
   if ($userChoice == 1) {
-        printf("You found an raft and got on it... Ahead you see an island do you go there? \n "); 
+        printf("You found a raft and got on it... Ahead of you, you see an island do you go there? \n "); 
   printf("Option 1. go to the island\n");
   printf("Option 2. continue on the raft\n");
         
   // Collect answer
         $userChoice = readline("");
         if ($userChoice == 2) 
-        printf(" You continued on the raft but you forget that you dindt have anything to eat... THE END \n "); 
+        printf(" You continued on the raft but you forget that you didn't have anything to eat... THE END \n "); 
       
       }
   }
@@ -101,7 +101,7 @@ printf("Option 2. go back on the raft\n");
   $userChoice = readline("");
 
 if ($userChoice == 2) 
-  printf(" You continued on the raft but you forget that you dindt have anything to eat... THE END \n "); 
+  printf(" You continued on the raft but you forget that you didn't have anything to eat... THE END \n "); 
 
 }
 
@@ -109,42 +109,42 @@ if ($userChoice == 2)
 if ($userChoice == 1) {
   printf(" you digged at the X mark and found a Golden chest! do you want to open it? \n "); 
 printf("Option 1. Open the golden chest \n");
-printf("Option 2. dont open the chest\n");
+printf("Option 2. don't open the chest\n");
   // Collect answer
   $userChoice = readline("");
  
   if ($userChoice == 2) 
-  printf(" you dindt open the Golden chest so you left the island in the end you never found the trophy... THE END\n "); 
+  printf(" you didn't open the Golden chest so you left the island in the end you never found the trophy... THE END\n "); 
 }
 
 
 if ($userChoice == 1) {
-  printf(" you opend the Golden chest but found nothing inside, but in the dark you see an Entrance. do you go in? \n "); 
+  printf(" you opened the Golden chest but found nothing inside, but in the dark you see an Entrance. do you go in? \n "); 
 printf("Option 1. Go in the dark Entrance \n");
-printf("Option 2. Dont go in the dark Entrance \n");
+printf("Option 2. Don't go in the dark Entrance \n");
   // Collect answer
   $userChoice = readline("");
 
   if ($userChoice == 2) 
-  printf(" you dindt go in the dark Entrance and left the island in the end you never found the trophy... THE END\n "); 
+  printf(" you didn't go in the dark Entrance and left the island in the end you never found the trophy... THE END\n "); 
 }
 
 
 if ($userChoice == 1) {
-  printf(" you went in the Dark Entrance en found an weird looking item. \n "); 
+  printf(" you went in the Dark Entrance and found a weird looking item. \n "); 
 printf("Option 1. get the item \n");
-printf("Option 2. Dont get the item\n");
+printf("Option 2. Don't get the item\n");
   // Collect answer
   $userChoice = readline("");
 
 if ($userChoice == 2) 
-  printf(" you dindt get the item and was now trapped in the dark cave... THE END\n "); 
+  printf(" you didn't get the item and was now trapped in the dark cave... THE END\n "); 
 
 }
 
 
 if ($userChoice == 1) {
-  printf(" You got the weird looking item but then disscoverd that it was the trophy... YOU WIN! \n "); 
+  printf(" You got the weird looking item but then discoverd that it was the trophy... YOU WIN! \n "); 
 printf("%s", $win);
 }
 
