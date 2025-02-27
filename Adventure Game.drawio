@@ -1,0 +1,260 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Pagina-1" id="CJ0WEWoVMeAAJBqQBiX7">
+    <mxGraphModel dx="3407" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-3" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;You find yourself standing at the edge of the jungle, with two paths ahead of you:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;fontColor=light-dark(#000000, #121212);labelBackgroundColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-13" value="Option 1. This path leads through a dense thicket of thorns" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-14" target="uEitXy7AAJIS3yc4FK4V-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-14" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Option 2. This path seems to be clear and well - trodden&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-16" value="You push your way through the thicket, enduring scratches and cuts along the way. Eventually, you emerge into a clearing and find a hidden cave.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="554" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-19" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Option 2. Do you continue on the path?&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-21" value="Option 1. Do you enter the cave?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-23" value="You found the chest!!!" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-25" value="You follow the well-trodden path and come across a river. Do you attempt to cross the river or look for a different route?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="830" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-28" value="Option 1. You attempt to cross the river?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-29" value="Option 2. Loof for a different route?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-32" value="You found an raft and got on it... Ahead you see an island do you go there?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-34" value="THE END" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-36" value="Option 1. go to the island" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-42" value="Option 2. continue on the raft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-46" target="uEitXy7AAJIS3yc4FK4V-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-46" value="Option 1. dig up the X on the ground" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-47" value="When you got to the island you found an X marked on the ground." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-48" target="uEitXy7AAJIS3yc4FK4V-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-48" value="Option 2. go back on the raft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-52" value="You continued on the raft but you forget that you dindt have anything to eat... THE END" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1240" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-54" value="You continued on the raft but you forget that you dindt have anything to eat... THE END&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1420" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-119.64705882352928" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-57" value="Option 1. Open the golden chest&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-58" value="you digged at the X mark and found a Golden chest! do you want to open it?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="29.764705882353155" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-65" value="dont open the chest" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-67" value="you dindt open the Golden chest so you left the island in the end you never found the trophy... THE END" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1630" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-71" value="you opend the Golden chest but found nothing inside, but in the dark you see an Entrance. do you go in?&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="1730" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-219.64705882352928" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-74" value="Option 1. Go in the dark Entrance&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-75" value="Option 2. Dont go in the dark Entrance" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-78" value="you dindt go in the dark Entrance and left the island in the end you never found the trophy... THE END" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-81" value="you went in the Dark Entrance en found an weird looking item." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-319.6470588235293" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-84" value="Option 1. get the item&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEitXy7AAJIS3yc4FK4V-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-119.64705882352928" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-86" value="Option 2. Dont get the item" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-89" value="You got the weird looking item but then disscoverd that it was the trophy... YOU WIN!" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uEitXy7AAJIS3yc4FK4V-90" value="you dindt get the item and was now trapped in the dark cave... THE END" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
